@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Developer Options
+Exec=dev_options
+Terminal=false
+Icon=dev_options
+Type=Application
+Categories=Utility;

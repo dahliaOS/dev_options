@@ -1,0 +1,10 @@
+{
+      "id": "io.dahliaos.dev_options",
+      "altName": "dev_options",
+      "realName": "Developer Options",
+      "version": "dahliaOS-latest",
+      "description": "Developer Options benchmarking tool for dahliaOS",
+      "sourceCode": "https://github.com/dahliaOS/dev_options",
+      "hash": "DAP_AUTOMATION_PKGHASH",
+      "architecture": "x86_64"
+},
